@@ -51,7 +51,7 @@ Kurulum Kılavuzu
 >
 > **Adım 1;**
 >
-> ![](media/image1.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No1.PNG)
 >
 > Resim 1
 >
@@ -62,7 +62,7 @@ Kurulum Kılavuzu
 >
 > **Adım 2:**
 >
-> ![](media/image2.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No2.PNG)
 >
 > Resim 2
 >
@@ -79,7 +79,7 @@ Kurulum Kılavuzu
 > neler gerçekleştirmek istediğinize bağlı olarak ihtiyaç duyacağız
 > fonksiyonları bu aşamadaki yapılandırmada aktif hale getirebilirsiniz.
 >
-> ![](media/image3.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No3.PNG)
 >
 > Resim 3
 >
@@ -151,7 +151,7 @@ Kullanım Kılavuzu
 > **ipsec listcacerts:** usr/local/etc/ipsec.d/cacerts konumundaki X509
 > sertifikalarını görüntüler.
 >
-> ![](media/image4.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No4.PNG)
 >
 > Resim 4
 >
@@ -310,7 +310,7 @@ Kullanım Kılavuzu
 >
 > IP versiyonu: IPV4
 >
-> ![](media/image5.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No5.PNG)
 >
 > Şekil 1
 >
@@ -322,15 +322,15 @@ Kullanım Kılavuzu
 
 Kali Linux bilgileri;
 
-> ![](media/image6.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No6.PNG)
 >
 > Resim 5
 
 Kali Linux 2 bilgileri;
 
-![](media/image7.png)
+> ![](https://github.com/BatuhanKaratas/Bil527StrongSwan/blob/master/Images/No7.PNG)
 
-Resim 6
+> Resim 6
 
 > Ayarlarda bahsedilen left = Local’i, Right ise Remote’ı temsil
 > etmektedir. Bu ayarlar usr/local/etc konumunda bulunmalıdır
